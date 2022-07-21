@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-examples-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-excelant-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-javadoc-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-ooxml-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-ooxml-full-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-ooxml-lite-5.2.2.jar",
+    "f:\\Eduardo Yañez\\Coding\\Hexaware\\poi-bin-5.2.2\\poi-scratchpad-5.2.2.jar"
+  ]
+}
